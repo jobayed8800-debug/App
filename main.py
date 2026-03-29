@@ -96,7 +96,7 @@ class JSONDatabase:
             "username": username,
             "ff_name": ff_name,
             "phone": phone,
-            "coins": 100,  # Bonus coins
+            "coins": 0,  # Bonus coins
             "is_admin": 1 if telegram_id in ADMIN_TELEGRAM_IDS else 0,
             "created_at": datetime.now().isoformat()
         }

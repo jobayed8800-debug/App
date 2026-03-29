@@ -15,7 +15,7 @@ from functools import wraps
 app = Flask(__name__)
 
 # Configuration
-TELEGRAM_BOT_TOKEN = "8243669144:AAEGgOKla5rGQTgU5qLrcsBzhzVl5wb-LFA"
+TELEGRAM_BOT_TOKEN = "8505253868:AAG94UH2syVHFS_68BV3Mi25gucLVY1V9do"
 ADMIN_TELEGRAM_IDS = [7612692016]  # ⚠️ Replace with your actual Telegram ID
 MONETAG_ZONE = "10253210"
 DATA_FILE = "database.json"

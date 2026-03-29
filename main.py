@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 # Configuration
 TELEGRAM_BOT_TOKEN = "8243669144:AAEGgOKla5rGQTgU5qLrcsBzhzVl5wb-LFA"
-ADMIN_TELEGRAM_IDS = [123456789]  # ⚠️ Replace with your actual Telegram ID
+ADMIN_TELEGRAM_IDS = [7612692016]  # ⚠️ Replace with your actual Telegram ID
 MONETAG_ZONE = "10253210"
 DATA_FILE = "database.json"
 
@@ -44,7 +44,7 @@ class JSONDatabase:
                     "popups": [],
                     "about": [{"id": 1, "content": "Welcome to tunff09 Tournament Platform!", "image_url": "", "updated_at": datetime.now().isoformat()}],
                     "global_notice": [{"id": 1, "text": "Welcome to tunff09 Tournament Bot!", "updated_at": datetime.now().isoformat()}],
-                    "support_contacts": [{"id": 1, "whatsapp": "+8801234567890", "telegram": "https://t.me/tunff09", "updated_at": datetime.now().isoformat()}],
+                    "support_contacts": [{"id": 1, "whatsapp": "+8801988006937", "telegram": "https://t.me/+m4TD15OINwU5MDc1", "updated_at": datetime.now().isoformat()}],
                     "settings": [{"id": 1, "daily_task_limit": 1, "allow_multiple_completions": False}],
                     "counters": {"user_id": 0, "task_id": 0, "tournament_id": 0, "popup_id": 0}
                 }

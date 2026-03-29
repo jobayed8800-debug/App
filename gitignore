@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+database.json
+*.db
+*.log
+venv/
+env/
+.DS_Store
+backup_*.json

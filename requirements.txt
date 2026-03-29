@@ -1,3 +1,6 @@
-Flask==3.0.3
-pyTelegramBotAPI==4.18.0
-requests==2.32.3
+Flask==2.3.3
+gunicorn==21.2.0
+pyTelegramBotAPI==4.13.0
+requests==2.31.0
+Werkzeug==2.3.0
+Jinja2==3.1.2

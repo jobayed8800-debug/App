@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 # Configuration
 TELEGRAM_BOT_TOKEN = "8243669144:AAEGgOKla5rGQTgU5qLrcsBzhzVl5wb-LFA"
-ADMIN_TELEGRAM_IDS = [123456789]  # Replace with your Telegram ID
+ADMIN_TELEGRAM_IDS = [7612692016]  # Replace with your Telegram ID
 DATABASE_FILE = "database.db"
 MONETAG_ZONE = "10253210"
 
